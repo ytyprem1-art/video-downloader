@@ -1,0 +1,8 @@
+build/
+dist/
+ffmpeg/
+phub/
+__pycache__/
+*.exe
+*.spec
+pyinstaller
